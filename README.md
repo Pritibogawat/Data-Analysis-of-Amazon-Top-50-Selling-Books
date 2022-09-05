@@ -1,4 +1,4 @@
-# Data-Analysis-of-Amazon-Top-50-Selling-Books
+# Data-Analysis-of-Amazon-Top-Selling-Books
  Analyzed and visualized the top Amazon selling books based on the user’s reviews &amp; user ratings. Also predicted the prices of the books using regression.
  
  Sample images:
